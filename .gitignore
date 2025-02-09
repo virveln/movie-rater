@@ -1,0 +1,27 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE and editor folders
+.vscode/
+.idea/
+
+# Ignore node_modules for React and React Native
+node_modules/
+
+# Ignore Python/Django bytecode and cache
+__pycache__/
+*.pyc
+
+# Ignore build and distribution files
+build/
+dist/
+*.log
+
+# Ignore environment variable files
+.env
+
+# Ignore any other common unwanted files
+*.swp
+*.bak
+*.tmp
